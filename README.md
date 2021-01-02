@@ -1,9 +1,8 @@
-# hello-world
-My first repository on GitHub
+
 ## Hello World 
 
 ### App Description
-`TODO://` Add app description
+Android app that creates custom background, custom text , custom font color and can revert the aforementioned to back to default.
 
 ### App Walk-though
 
